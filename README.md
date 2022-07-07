@@ -1,5 +1,8 @@
-## My name is Dastan - aka Dustin-RS
-
+## Hi there! My name is Dastan
+I am a purposeful young developer interested in learning
+new interesting and complex things with their further development and
+improvement. Currently I am into data science and analysis.
+Check out my repo, maybe you will find smth for yourself.
 ---
 
 ## Connect with me:
